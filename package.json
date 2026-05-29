@@ -1,13 +1,13 @@
 {
   "type": "module",
-  "name": "@ideditor/schema-builder",
+  "name": "@ormcz/id-schema-builder",
   "version": "6.5.1",
   "description": "Framework for defining iD-compatible tagging models",
-  "homepage": "https://github.com/ideditor/schema-builder#readme",
-  "bugs": "https://github.com/ideditor/schema-builder/issues",
+  "homepage": "https://github.com/ormcz/id-schema-builder#readme",
+  "bugs": "https://github.com/ormcz/id-schema-builder/issues",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ideditor/schema-builder.git"
+    "url": "git+https://github.com/ormcz/id-schema-builder.git"
   },
   "license": "ISC",
   "exports": "./lib/index.js",
