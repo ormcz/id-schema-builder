@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "@ormcz/id-schema-builder",
-  "version": "6.5.1",
+  "version": "6.5.1-v4",
   "description": "Framework for defining iD-compatible tagging models",
   "homepage": "https://github.com/ormcz/id-schema-builder#readme",
   "bugs": "https://github.com/ormcz/id-schema-builder/issues",
